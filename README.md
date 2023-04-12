@@ -8,6 +8,11 @@
     <img src="https://img.shields.io/badge/Tools-Git-F44D27?style=flat&logo=Git&logoColor=white&color=8876D1"/>
     <img src="https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat&logo=figma&logoColor=white&color=8876D1">
 </p>
+<script>
+    (function() {
+        alert('--')
+    })()
+</script>
 <!--
 **zanedeng/zanedeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
