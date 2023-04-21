@@ -1,4 +1,3 @@
-<img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" />
 <p>
     <img src="https://img.shields.io/badge/Editor-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&color=8876D1"/>
     <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white&color=8876D1">
