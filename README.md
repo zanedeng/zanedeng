@@ -1,12 +1,7 @@
 <p>
-    <img src="https://img.shields.io/badge/Editor-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white&color=8876D1">
-    <img src="https://img.shields.io/badge/Code-React-20232A?style=flat&logo=react&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Code-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Tools-Git-F44D27?style=flat&logo=Git&logoColor=white&color=8876D1"/>
-    <img src="https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat&logo=figma&logoColor=white&color=8876D1">
+    <svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8.284 1.864l-7.21 7.21-.707-.707 7.21-7.21a3.017 3.017 0 014.266 4.267l-5.84 5.84A1.883 1.883 0 013.339 8.6l5.674-5.674.707.707-5.674 5.674a.883.883 0 001.25 1.25l5.84-5.84a2.017 2.017 0 10-2.852-2.853z" fill="currentColor" fill-rule="evenodd"/>
+    </svg>
 </p>
 
 <!--
