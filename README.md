@@ -1,7 +1,7 @@
 <p>
-    <svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.284 1.864l-7.21 7.21-.707-.707 7.21-7.21a3.017 3.017 0 014.266 4.267l-5.84 5.84A1.883 1.883 0 013.339 8.6l5.674-5.674.707.707-5.674 5.674a.883.883 0 001.25 1.25l5.84-5.84a2.017 2.017 0 10-2.852-2.853z" fill="currentColor" fill-rule="evenodd"/>
-    </svg>
+    <svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
 </p>
 
 <!--
